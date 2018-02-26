@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519603110 source:c:\users\student\lab8\lab8.cpp
+	<iostream>
+	<dirent.h>
+	<sys/types.h>
+	<sys/stat.h>
+
